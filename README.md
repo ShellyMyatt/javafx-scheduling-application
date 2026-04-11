@@ -40,4 +40,37 @@ This project is a desktop scheduling application built using JavaFX and MySQL. I
 
 Shelly Myatt
 
+## Screenshots
+
+### Login Screen
+
+![Login Screen](screenshots/Log%20In%20javaFX%20App..png)
+
+### First Screen
+
+![First Screen](screenshots/First%20Screen%20javaFX%20App.png)
+
+### First Screen (Alt View)
+
+![First Screen Alt](screenshots/First%20Screen%201%20javaFX%20App.png)
+
+### Add Appointment
+
+![Add Appointment](screenshots/Add%20App.%20javaFX%20App%20.png)
+
+### Modify Appointment
+
+![Modify Appointment](screenshots/Mod%20App%20javaFX%20App%20.png)
+
+### Customer Information
+
+![Customer Info](screenshots/Customer%20Info%20javaFX%20App.png)
+
+### Customer by Country Report
+
+![Customer Country](screenshots/Customer%20Country%20javaFX%20App.png)
+
+### Contact Schedule
+
+![Contact Schedule](screenshots/Contact%20Schedule%20javaFX%20App.png)
 
