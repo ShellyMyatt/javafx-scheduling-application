@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>Myatt</groupId>
+    <groupId>com.scheduler</groupId>
     <artifactId>SchedulingApplication</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>JavaFX Scheduling Application</name>
@@ -69,7 +69,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                myatt.schedulingapplication/myatt.Main
+                                scheduler.schedulingapplication/scheduler.Main
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>

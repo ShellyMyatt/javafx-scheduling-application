@@ -1,22 +1,22 @@
-module myatt.schedulingapplication {
+module scheduler.schedulingapplication {
     requires javafx.controls;
     requires javafx.fxml;
     requires java.sql;
     requires javafx.graphics;
 
 
-//    opens myatt to javafx.fxml;
-//    exports myatt;
-    exports myatt.dao;
-    opens myatt.dao to javafx.fxml;
-    exports myatt.helper;
-    opens myatt.helper to javafx.fxml;
-//    exports myatt.main;
-//    opens myatt.main to javafx.fxml;
-    exports myatt.model;
-    opens myatt.model to javafx.fxml;
-    exports myatt.controller;
-    opens myatt.controller to javafx.fxml;
-    exports myatt;
-    opens myatt to javafx.fxml;
+//    opens scheduler to javafx.fxml;
+//    exports scheduler;
+    exports scheduler.dao;
+    opens scheduler.dao to javafx.fxml;
+    exports scheduler.helper;
+    opens scheduler.helper to javafx.fxml;
+//    exports scheduler.main;
+//    opens scheduler.main to javafx.fxml;
+    exports scheduler.model;
+    opens scheduler.model to javafx.fxml;
+    exports scheduler.controller;
+    opens scheduler.controller to javafx.fxml;
+    exports scheduler;
+    opens scheduler to javafx.fxml;
 }
