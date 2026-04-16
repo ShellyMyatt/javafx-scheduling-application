@@ -1,4 +1,4 @@
-# JavaFX Scheduling Application
+# Scheduling Management System (JavaFX)
 
 ## Overview
 
