@@ -1,4 +1,4 @@
-module myatt.schedulingapplicationc195 {
+module myatt.schedulingapplication {
     requires javafx.controls;
     requires javafx.fxml;
     requires java.sql;

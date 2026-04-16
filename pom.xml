@@ -7,7 +7,7 @@
     <groupId>Myatt</groupId>
     <artifactId>SchedulingApplication</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>Scheduling Application C195</name>
+    <name>JavaFX Scheduling Application</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -42,7 +42,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>9.0.00</version>
+            <version>8.0.33</version>
         </dependency>
 
 
@@ -69,7 +69,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                myatt.schedulingapplicationc195/myatt.Main
+                                myatt.schedulingapplication/myatt.Main
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
